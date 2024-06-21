@@ -8,3 +8,4 @@ var time2 = performance.now();
 console.log(`Time Elapsed: ${(time2 - time1) / 1000} seconds.`);
 
 // Big O of this would be O(1)
+// Test commit
